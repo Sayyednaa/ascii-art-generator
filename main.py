@@ -1,7 +1,7 @@
 from art import *
 
 import os
-print("<==============Text To ASCII Art Converer. ==========>\n")
+print("<==============ASCII Art Generator. ==========>\n")
 print("Coded By:\n")
 Art=text2art("Abdul Ali",font='block',chr_ignore=True) # Return ASCII text with block font
 print(Art)
