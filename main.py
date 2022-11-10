@@ -3,7 +3,7 @@ from art import *
 import os
 print("<==============ASCII Art Generator. ==========>\n")
 print("Coded By:\n")
-Art=text2art("Abdul Ali",font='block',chr_ignore=True) # Return ASCII text with block font
+Art=text2art("Hello World!",font='block',chr_ignore=True) # Return ASCII text with block font
 print(Art)
 user = ''
 while user != '~':
